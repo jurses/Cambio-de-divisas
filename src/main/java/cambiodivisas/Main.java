@@ -19,7 +19,7 @@ public class Main extends Application{
 
 	public static void main(String[] args) {
 		Divisa euro = new Divisa("Euro", 1.0);
-		Divisa bitcoin = new Divisa("Bitcoin", 0.0001);
+		Divisa bitcoin = new Divisa("Bitcoin", 0.000103248);
 		Divisa dolar = new Divisa("Dolar", 1.17);
 		Divisa peseta = new Divisa("Peseta", 166.386);
 		
